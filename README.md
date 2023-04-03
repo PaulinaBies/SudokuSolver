@@ -13,10 +13,12 @@ A super simple C++ program that will solve any given sudoku game.
 
 <p align="center">
 Prompt user for a csv file name containing the grid they wish to solve using the template below: <br/>
+<br />
 <img src="https://imgur.com/dskBUWZ.png" height="50%" width="50%" alt="Sudoku Solver"/>
 <br />
 <br />
 Program returns the original and solved grid:  <br/>
+<br />
 <img src="https://imgur.com/IefYvUO.png" height="50%" width="50%" alt="Sudoku Solver"/>
 <br />
 <br />
