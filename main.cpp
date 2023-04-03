@@ -106,9 +106,7 @@ bool SudokuPlayer::check_choice(SudokuGame& game, int row, int col, int n) const
     return true;
 }
 
-/// 
-/// @param game the game to solve 
-/// @return 
+
 bool SudokuPlayer::solve(SudokuGame& game) const {
     
     int row = 0;
